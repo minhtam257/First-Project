@@ -3,7 +3,12 @@
     Thông tin
     <br>
     Họ tên: Nguyễn Ngọc Bảo Nghi
-    Ngày tháng năm sinh: dd/mm/yyyy
+    <br>
+    Ngày tháng năm sinh: 25/02/2010
+    <br>
+    Nơi ở: Việt Nam
+    <br>
+    Địa chỉ: Khu phố Phước Sơn - Thị trấn Đất Đỏ - Huyện Đất Đỏ - Tỉnh BRVT
   
   </div>
   <div class="sidebar">
