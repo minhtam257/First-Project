@@ -1,12 +1,20 @@
 <div class="grid-layout">
-  <div class="header">Header</div>
-  <div class="sidebar">Sidebar</div>
-  <div class="content">
-    Content
+  <div class="header">
+    Thông tin
     <br>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+    Họ tên: Nguyễn Ngọc Bảo Nghi
+    Ngày tháng năm sinh: 
+  
   </div>
-  <div class="footer">Footer</div>
+  <div class="sidebar">Giới thiệu bản thân
+    <img src=https://www.facebook.com/photo?fbid=669636853588477&set=pob.100016265058027>
+  </div>
+  <div class="content">
+    Sở thích
+    <br>
+    Nghịch điện thoại, còn lại thì hong biết
+  </div>
+  <div class="footer">Bài viết được thực hiện bởi Tâm</div>
 </div>
 <style>
 .grid-layout {
@@ -25,6 +33,7 @@
 }
 .sidebar {
   grid-area: sidebar;
+  text-align: center;
 }
 .content {
   grid-area: content;
