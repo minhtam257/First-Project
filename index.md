@@ -6,7 +6,9 @@
     Ngày tháng năm sinh: dd/mm/yyyy
   
   </div>
-  <div class="sidebar">Giới thiệu bản thân
+  <div class="sidebar">
+    Giới thiệu bản thân
+  <br>
     <img src="https://www.facebook.com/photo?fbid=669636853588477&set=pob.100016265058027">
   </div>
   <div class="content">
