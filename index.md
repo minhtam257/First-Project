@@ -9,7 +9,7 @@
   <div class="sidebar">
     Giới thiệu bản thân
   <br>
-    <img src="https://www.facebook.com/photo?fbid=669636853588477&set=pob.100016265058027">
+    <img src="https://scontent.fsgn5-5.fna.fbcdn.net/v/t1.0-9/109553416_669636856921810_2953574435321858618_o.jpg?_nc_cat=100&_nc_sid=8bfeb9&_nc_ohc=KTWb1PGvw44AX-eY2cM&_nc_ht=scontent.fsgn5-5.fna&oh=2640642491e803fb7281db21e8a41c10&oe=5F469863">
   </div>
   <div class="content">
     Sở thích
